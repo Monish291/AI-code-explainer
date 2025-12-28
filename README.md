@@ -27,9 +27,4 @@ An AI-powered web application that explains source code in a simple and understa
 ---
 
 ## 📂 Project Structure
-AI-code-explainer/
-│
-├── frontend/
-├── backend/
-├── .gitignore
-└── README.md
+
